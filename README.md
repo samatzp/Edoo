@@ -1,1 +1,41 @@
-"# Edoo.kz" 
+<img alt='log' src="client/public/icons/edoo3.svg" style='height:48px' />
+
+## OpenBook  - online education platform
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://edoo-daydone.herokuapp.com)
+
+
+It is an MERN ( mongodb, express, react, node) stack edtech app. This app includes lots of functionality like pdfviewer, admin dashboard, create-book, create-subject, bag.
+
+#### `Tech Stack:`
+
+[![Generic badge](https://img.shields.io/badge/Node.js->=12-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/React.js->=16.8-blue.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/MongoDB->=4-teal.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Express.js->=4-<COLOR>.svg)](https://shields.io/)
+
+
+#### `.env structure`
+
+```bash
+MONGO_URI=<MONGO_DB_SERVER>
+NODE_ENV=production
+CLIENT_URL=<REACT_APP_SERVER>
+PORT=8000
+JWT=<JWT_SECRET>
+```
+
+#### `How to run locally?`
+```bash
+1. git clone https://github.com/samatzhusup/Edoo
+2. cd Edoo-Platform
+3. npm i
+4. cd client 
+5. npm i
+6. cd ..
+7. npm run dev
+# project started
+
+```
+#### `Don't forget to put a star`
+```
+
+#### `Deploying to Heroku will be soon)`
+```

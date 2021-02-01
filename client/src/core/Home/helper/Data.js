@@ -5,7 +5,7 @@ export const homeObjOne = {
   topLine: '',
   headline: 'Welcome to the student community',
   description:
-    'Download e-book form for free',
+    'Download e-book form for free test1',
   buttonLabel: 'Collect your Bag',
   imgStart: '',
   img: 'images/web-design.svg',

@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightText: false,
   lightTextDesc: false,
   topLine: '',
-  headline: 'Welcome to the student community',
+  headline: 'Welcome',
   description:
     'Download e-book form for free test1',
   buttonLabel: 'Collect your Bag',

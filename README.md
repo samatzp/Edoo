@@ -4,7 +4,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://edoo-daydone.herokuapp.com)
 
-#### `Don't forget to put a star`
 
 It is an MERN ( mongodb, express, react, node) stack edtech app. This app includes lots of functionality like pdfviewer, admin dashboard, create-book, create-subject, bag.
 
@@ -12,7 +11,7 @@ It is an MERN ( mongodb, express, react, node) stack edtech app. This app includ
 
 [![Generic badge](https://img.shields.io/badge/Node.js->=12-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/React.js->=16.8-blue.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/MongoDB->=4-teal.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Express.js->=4-<COLOR>.svg)](https://shields.io/)
 #### `ScreenShot:`
-<img alt='log' src="screenshots/welcomepage.png.png" style='height:300px' />
+<img alt='log' src="screenshots/welcomepage.png" style='height:300px' />
 <img alt='log' src="screenshots/admin_dashboard.png" style='height:300px' />
 <img alt='log' src="screenshots/allbookpage.png" style='height:300px' />
 
@@ -38,10 +37,11 @@ JWT=<JWT_SECRET>
 # project started
 ```
 #### `MongoDB Structure`
-
 <img alt='log' src="screenshots/mongo_user.png" style='height:300px' />
-<img alt='log' src="screenshots/mongo_product.png.png" style='height:300px' />
-<img alt='log' src="screenshots/mongo_category.png.png" style='height:300px' />
+<img alt='log' src="screenshots/mongo_product.png" style='height:300px' />
+<img alt='log' src="screenshots/mongo_category.png" style='height:300px' />
 
 #### `Deploying to Heroku will be soon)`
-```
+
+#### `Don't forget to put a star`
+

@@ -3,9 +3,9 @@ export const homeObjOne = {
   lightText: false,
   lightTextDesc: false,
   topLine: '',
-  headline: 'Welcome',
+  headline: 'Welcome to the student community',
   description:
-    'Download e-book form for free test1',
+    'Download e-books form for free)',
   buttonLabel: 'Collect your Bag',
   imgStart: '',
   img: 'images/web-design.svg',

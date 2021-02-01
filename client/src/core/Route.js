@@ -39,7 +39,7 @@ const NoMatchPage = () => {
 
 const Routes = () => {
     return (
-        <BrowserRouter basename="/React">
+        <BrowserRouter>
             <ScrollToTop />
             <Suspense
                 fallback={

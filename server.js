@@ -18,7 +18,7 @@ const app = express();
 
 // db connection
 mongoose
-  .connect("mongodb+srv://samat:Wzcw6nIXRwbhz0I0@cluster0.kn19a.mongodb.net/EdooMongoDB?retryWrites=true&w=majority", {
+  .connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
     useFindAndModify: false,
     useUnifiedTopology: true,

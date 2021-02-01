@@ -25,7 +25,7 @@ PORT=8000
 JWT=<JWT_SECRET>
 ```
 
-#### `How to run locally?`
+#### `Run locally`
 ```bash
 1. git clone https://github.com/samatzhusup/Edoo
 2. cd Edoo-Platform
@@ -40,8 +40,6 @@ JWT=<JWT_SECRET>
 <img alt='log' src="screenshots/mongo_user.png" style='height:300px' />
 <img alt='log' src="screenshots/mongo_product.png" style='height:300px' />
 <img alt='log' src="screenshots/mongo_category.png" style='height:300px' />
-
-#### `Deploying to Heroku will be soon)`
 
 #### `Don't forget to put a star`
 

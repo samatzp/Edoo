@@ -11,6 +11,9 @@ It is an MERN ( mongodb, express, react, node) stack edtech app. This app includ
 
 [![Generic badge](https://img.shields.io/badge/Node.js->=12-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/React.js->=16.8-blue.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/MongoDB->=4-teal.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Express.js->=4-<COLOR>.svg)](https://shields.io/)
 
+<img alt='log' src="screenshots/admin_dashboard.png" style='height:300px' />
+<img alt='log' src="screenshots/allbookpage.png" style='height:300px' />
+
 
 #### `.env structure`
 
